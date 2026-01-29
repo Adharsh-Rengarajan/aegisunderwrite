@@ -424,12 +424,3 @@ src/main/java/com/aegisunderwrite/application/
 
 ---
 
-## License
-
-MIT License
-
----
-
-## Contributing
-
-Contributions welcome. Please open an issue first to discuss proposed changes.
